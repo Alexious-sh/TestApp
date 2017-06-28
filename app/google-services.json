@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "474825290864",
+    "firebase_url": "https://test-2e6f7.firebaseio.com",
+    "project_id": "test-2e6f7",
+    "storage_bucket": "test-2e6f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474825290864:android:c459a97d686dc4b9",
+        "android_client_info": {
+          "package_name": "sh.alexious.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474825290864-im6vhqpn88av3m6t38rb6b8rdta1618n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS1RzZo5rkQ9zuPyumAf4YrfsJDNBqFwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
